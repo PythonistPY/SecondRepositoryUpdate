@@ -27,7 +27,7 @@ def unmark_task():
 
 root = tk.Tk()
 root.title("Personal NOTEBOOK")
-root.geometry('600x480')
+root.geometry('600x500')
 root["bg"] = 'black'
 
 text1 = tk.Label(root, text="Введите свою задачу ", bg="DarkSlateGrey", font=("Arial Bold", 15))
